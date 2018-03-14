@@ -8,4 +8,4 @@ play a perfect game, but this is one of my earlier projects.
 # Requirements
 Requires pygame to be installed
 
-![Connect-Four](http://MitchellAW.github.io/images/connect-four.png)
+![Connect-Four](https://github.com/MitchellAW/MitchellAW.github.io/blob/master/images/connect-four.png)
